@@ -39,7 +39,7 @@ const almenlandCamping: CampsiteConfig = {
     {
       title: "Ponys & Hoftiere",
       text: "Miniponys, Hühner, Hasen und Katzenbabies gehören zum Hof — beim Ponyreiten und Striegeln sind die Kinder mittendrin.",
-      image: { src: `${IMG}/gallery-561e66113c.webp`, alt: "Kinder beim Ponyreiten am Miniponyhof Wild" },
+      image: { src: `${IMG}/kids-e44e09a8c6.webp`, alt: "Miniponys beim Grasen auf der Hofwiese am Miniponyhof Wild" },
     },
     {
       title: "Familie Wild",
@@ -83,7 +83,7 @@ const almenlandCamping: CampsiteConfig = {
       {
         title: "Ruhig im Almenland",
         text: "Der Platz liegt am Dorfrand von Tober, ringsum nur Wiesen, Wald und die sanften Hügel des Naturparks Almenland.",
-        image: { src: `${IMG}/gallery-e5b6c5fc1d.webp`, alt: "Campingplatz und Ferienhäuser mit Blick über das Almenland" },
+        image: { src: `${IMG}/gallery-a8731a0343.webp`, alt: "Überdachte Veranda mit Hängestuhl und Blick über die ruhige Hofwiese des Miniponyhof Wild" },
       },
       {
         title: "Schlafen im Heu",
@@ -103,7 +103,7 @@ const almenlandCamping: CampsiteConfig = {
       {
         title: "Mithelfen beim Heuen",
         text: "Wenn der Traktor zur Heuernte ausrückt, dürfen kleine Helfer mit aufladen und am Hof mit anpacken.",
-        image: { src: `${IMG}/gallery-642ad43ae1.webp`, alt: "Traktor mit Heuwagen bei der Heuernte am Miniponyhof Wild" },
+        image: { src: `${IMG}/gallery-8765149d08.webp`, alt: "Kinder helfen beim Heuen im Stadl des Miniponyhof Wild" },
       },
     ],
   },
@@ -163,7 +163,7 @@ const almenlandCamping: CampsiteConfig = {
       {
         title: "Ponys im Offenstall",
         text: "Die Ponys leben im offenen Stall gleich an der Wiese — Füttern und Striegeln gehört zum Tag.",
-        image: { src: `${IMG}/gallery-6383004557.webp`, alt: "Offenstall für die Ponys am Miniponyhof Wild" },
+        image: { src: `${IMG}/kids-8fd29b71cf.webp`, alt: "Miniponys grasen auf der grünen Hofwiese am Miniponyhof Wild" },
       },
       {
         title: "Traktorfahrt über den Hof",
@@ -203,10 +203,10 @@ const almenlandCamping: CampsiteConfig = {
     tag: "Urlaub am Bauernhof",
     moreCount: 30,
     images: [
-      { src: `${IMG}/gallery-5325710549.webp`, alt: "Blumengruß und Empfang am Miniponyhof Wild" },
+      { src: `${IMG}/gallery-bc9d2e3338.webp`, alt: "Gemütliche Sommerterrasse am Miniponyhof Wild mit Mosaiktisch und Blick in den Hofgarten" },
       { src: `${IMG}/gallery-0819659928.webp`, alt: "Spielplatz mit Rosengarten am Campingplatz" },
       { src: `${IMG}/gallery-7adf3a8cbe.webp`, alt: "Sommertag auf der Spielwiese am Hof" },
-      { src: `${IMG}/gallery-16cbe87aac.webp`, alt: "Hufeisen bringt Glück am Ponyhof" },
+      { src: `${IMG}/gallery-3e651eb499.webp`, alt: "Blühende Margeriten am Wanderweg durch den Naturpark Almenland" },
     ],
   },
 
