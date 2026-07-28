@@ -166,9 +166,9 @@ const almenlandCamping: CampsiteConfig = {
         image: { src: `${IMG}/kids-8fd29b71cf.webp`, alt: "Miniponys grasen auf der grünen Hofwiese am Miniponyhof Wild" },
       },
       {
-        title: "Traktorfahrt über den Hof",
-        text: "Beim Hofrundgang nehmen die Kinder im Anhänger Platz und fahren beim Bauern mit.",
-        image: { src: `${IMG}/gallery-8eb6b0c318.webp`, alt: "Kinder bei der Traktorfahrt am Bauernhof Wild" },
+        title: "Bei der Heuernte mithelfen",
+        text: "Im Sommer wird am Bio-Hof das Heu eingefahren — Gäste dürfen beim Einbringen mit anpacken.",
+        image: { src: `${IMG}/gallery-642ad43ae1.webp`, alt: "Traktor mit Heuwagen am Miniponyhof Wild" },
       },
       {
         title: "Kühe melken",
